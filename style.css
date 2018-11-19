@@ -37,9 +37,9 @@ h2 {
 	padding: 10px;
 	margin-bottom: 10px;
 	border: 3px dashed purple;
-	float: right;
+	float: none;
 }
-#chant {
+#NAMJOON {
 	font-size: 30px;
 	color: white;
 	background: linear-gradient(purple, white);
